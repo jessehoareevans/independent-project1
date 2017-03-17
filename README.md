@@ -2,7 +2,7 @@
 
 #### First independent project for intro to programming at Epicodus, 03-17-2017
 
-#### By _** Jesse Hoare Evans
+#### By Jesse Hoare Evans
 
 ## Description
 
