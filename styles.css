@@ -14,7 +14,7 @@ p {
   padding-left: 20px;
   padding-right: 20px;
   font-size: 20px;
-  text-align: center;
+  text-align: left;
   padding-top: 20px;
 }
 li {
@@ -27,9 +27,10 @@ h3 {
 }
 .me {
   float: left;
+  height: 300px;
 }
 .description {
-  font-size: 12px;
+  font-size: 14px;
   text-align: left;
   margin-right: 10px;
 }
@@ -70,4 +71,11 @@ h3 {
 }
 .um {
   color: #FF0F21
+}
+.epicodus {
+  margin-bottom: 20px;
+}
+.loony {
+  float: right;
+  height: 300px;
 }
