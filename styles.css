@@ -47,7 +47,8 @@ h3 {
 .fun {
   float: right;
   text-align: center;
-  margin-bottom: 20px;
+  border: 4px;
+  padding: 40px;
 }
 .vy {
   margin-left: 15px;
@@ -57,4 +58,16 @@ h3 {
 .guinness {
   height: 350px;
   width: 350px;
+}
+.ring {
+  color: #54D2D2
+}
+.be {
+  color: #000000
+}
+.lgi {
+  color: #FFE936;
+}
+.um {
+  color: #FF0F21
 }
