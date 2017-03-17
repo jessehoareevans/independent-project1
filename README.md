@@ -1,8 +1,8 @@
-# independent-project1
+# Independent-project1
 
-#### _{First independent project for intro to programming at Epicodus}, {03-17-2017}_
+#### First independent project for intro to programming at Epicodus, 03-17-2017
 
-#### By _**{Jesse Hoare Evans}**_
+#### By _** Jesse Hoare Evans
 
 ## Description
 
@@ -21,6 +21,6 @@ Bootstrap
 
 ### License
 
-*{GPL}*
+GPL
 
-Copyright (c) 2017 **_{Jesse Hoare Evans}_**
+Copyright (c) 2017 Jesse Hoare Evans
