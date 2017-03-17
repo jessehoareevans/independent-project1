@@ -24,8 +24,28 @@ h3 {
   text-align: center;
 
 }
-.center {
-  display: block;
-  margin: auto;
-  width: 20%
+.me {
+  float: left;
+}
+.description {
+  font-size: 12px;
+  text-align: left;
+  margin-right: 10px;
+}
+.sydney {
+  height: 300px;
+  width: 450px;
+  margin-left: 25px;
+}
+.wallabies {
+  height: 350px;
+  width: 350px;
+  margin-left: 100px;
+}
+.fun {
+  float: right;
+  text-align: right;
+}
+body {
+  background-image: url("seattle.jpg")
 }
