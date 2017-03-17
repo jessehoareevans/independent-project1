@@ -8,6 +8,7 @@
   </head>
   <body>
     <div class="container-fluid"> <!-- main container div -->
+      <div class="row">
       <div class="jumbotron">
     <h1> <div class="title">
     Jesse Hoare Evans</h1>
@@ -15,23 +16,34 @@
     <h2> <div class="intro">Intro</h2>
       <p>
         Here is a little information that might help people get to know me. I am originally from <strong>Australia</strong> but have been living in the <strong>US</strong> for 11 years now. I became a citizen in July of 2014. I hope that this page explains and shows a little bit about me!
+        <div class="center">
+          <img src="me.jpg" alt="Jesse" height="300" />
+        </div>
       </p>
       </div>
        </div> <!-- jumbotron -->
+     <div class="col-md-4">
        <div class="well">
-      <h2>Background</h2>
+      <h3>Background</h3>
        </div>
         <p>
           Here is a little background on me. I was born in <strong>Sydney, Australia</strong> in 1992 and moved to <a href="http://travel.usnews.com/Melbourne_Australia/Things_To_Do/">Melbourne</a> when I was around 2. I lived there until I was 10 when my family moved to the <em>UK</em>. I lived there for 2 more years before moving back to Melbourne for another year. After that I came stateside and have lived here ever since.
         </p>
+      </div>         <!-- first column -->
+      <div class="col-md-4">
         <div class="well">
-    <h2>Epicodus Projects</h2>
+    <h3>Epicodus Projects</h3>
         </div>
       <p>
         Below is a list of different projects that I have done during my first week in order of completion (oldest to most recent project)
       </p>
         <ol>
           <li> <a href="https://github.com/jessehoareevans/hello-world">Hello World</a></li>
+          <ul>
+            <p>
+              This was the first project that I worked on. It was a simple website using html where we said "hello world" in 5 different languages. After that we added "goodbye world" in Japanese and Pig latin.
+            </p>
+          </ul>
           <li><a href="https://github.com/jessehoareevans/cookie-recipe">Cookie Recipe</a></li>
           <li><a href="https://jessehoareevans.github.io/travel/">Travel</a></li>
           <li><a href="https://github.com/jessehoareevans/cupcakes">Cupcakes</a></li>
@@ -39,8 +51,12 @@
           <li><a href="https://github.com/jessehoareevans/vacation-gbr">Great Barrier Reef</a></li>
           <li><a href="https://github.com/jessehoareevans/wikipedia">Wikiepedia</a></li>
         </ol>
+        </div>  <!-- 2nd column -->
+        <div class="col-md-4">
+
+
       <div class="well">
-    <h2>Interests/Hobbies</h2>
+    <h3>Interests/Hobbies</h3>
       </div>
       <p>
       I have a number of interests and hobbies, you can see some of them below
@@ -64,6 +80,7 @@
           <li>Snowboarding (when I have the time!)</li>
           <li>Travelling!</li>
         </ul>
+          </div> <!-- 3rd column -->
 
 
 
@@ -83,8 +100,7 @@
 
 
 
-
-    </div>
-    <!-- main container div -->
+  </div> <!-- row -->
+    </div> <!-- main container div -->
   </body>
 </html>

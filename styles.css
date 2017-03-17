@@ -3,10 +3,29 @@ h2 {
   text-align: center;
 }
 .intro {
-  text-align: center;
+  text-align: center;;
   color: red;
 }
 .title {
   text-align: center;
   color: green;
+}
+p {
+  padding-left: 20px;
+  padding-right: 20px;
+  font-size: 24px;
+  text-align: center;
+}
+li {
+  font-size: 20px;
+}
+h3 {
+  color: blue;
+  text-align: center;
+
+}
+.center {
+  display: block;
+  margin: auto;
+  width: 20%
 }
