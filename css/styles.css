@@ -2,11 +2,11 @@ h2 {
   color: blue;
   text-align: center;
 }
-.intro {
+h2 {
   text-align: center;;
   color: red;
 }
-.title {
+h1 {
   text-align: center;
   color: green;
 }
